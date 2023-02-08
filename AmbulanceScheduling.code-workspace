@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "Root"
+    },
+    {
+      "path": "./src/pages",
+      "name": "Pages"
+    },
+    {
+      "path": "./src/lib",
+      "name": "Lib"
+    }
+  ],
+  "extensions": {
+    "recommendations": ["esbenp.prettier-vscode", "dbaeumer.vscode-eslint"]
+  }
+}

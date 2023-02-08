@@ -5,6 +5,10 @@ import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
+/**
+ * The Home component is used to render the home page
+ * @returns {JSX.Element} The Home component
+ */
 export default function Home() {
   return (
     <>
